@@ -1,6 +1,6 @@
 # Efficient rank-based estimation for Gaussian copula models
 
-This repository contains the Matlab code that was used for the simulation study in: 
+This repository contains the Matlab code that was used for the simulation study in
 
 <P STYLE="margin-left: 15px">
 Segers, J., R. Van den Akker, and B.J.M. Werker (2014). 
