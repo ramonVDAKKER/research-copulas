@@ -1,4 +1,4 @@
-# research-SvdAW-2014-
+# Efficient rank-based estimation for Gaussian copula models
 
 This repository contains the Matlab code that was used for the simulation study in: 
 
