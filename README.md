@@ -9,4 +9,8 @@ A technical supplement, containing the proofs, can be found <a href="http://dx.d
 
 Use <i>example.m</i> to get started with the code.
 
+Related work on efficient estimation for semiparametric copula models:
+*   Einmahl, J.H.J. and R. van den Akker (2011). <a href="https://doi.org/10.1016/j.jmva.2011.04.015">Superefficient estimation of the marginals by exploiting knowledge on the copula</a>, <i>JournalJournal of Multivariate Analysis</i> 102, 1315-1319.
+
+
 
