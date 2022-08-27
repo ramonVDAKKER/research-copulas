@@ -11,7 +11,7 @@ Use <i>example.m</i> to get started with the code.
 
 Related work on efficient estimation for semiparametric copula models:
 *   Einmahl, J.H.J. and R. Van den Akker (2011). <a href="https://doi.org/10.1016/j.jmva.2011.04.015">Superefficient estimation of the marginals by exploiting knowledge on the copula</a>, <i>Journal of Multivariate Analysis</i> 102, 1315-1319.
-*   Segers, J., R. Van den Akker, and B.J.M. Werker (2008). <a href=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1123502">Improving upon the marginal empirical distribution function when the copula is known</a>, working paper.
+*   Segers, J., R. Van den Akker, and B.J.M. Werker (2008). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1123502">Improving upon the marginal empirical distribution function when the copula is known</a>, working paper.
 *   Chapter 5 in Van den Akker, R. (2007), <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2412998">PhD thesis</a>.  
 
 
