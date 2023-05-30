@@ -1,4 +1,4 @@
-# Efficient rank-based estimation for semiparametric Gaussian copula models
+# Efficient rank-based estimation for semiparametric copula models
 
 This repository contains the Matlab code that was used for the Monte Carlo simulation study in
 
